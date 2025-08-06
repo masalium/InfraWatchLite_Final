@@ -1,0 +1,8 @@
+{
+  "interval": 5,
+  "thresholds": {
+    "cpu": 75,
+    "memory": 75,
+    "disk": 80
+  }
+}
